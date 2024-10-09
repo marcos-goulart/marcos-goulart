@@ -6,8 +6,8 @@
 
   ## About Me
   
-   + Front End Developer.
-   + I'm an Esports fan.
+   + 📃 Front End Developer.
+   + 🕹 I'm an Esports fan.
   
  ## Languages and Tools
  ### Front-End:
