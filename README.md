@@ -6,7 +6,7 @@
 
   ## About Me
   
-   + 📃 Front End Developer.
+   + 📃 Full-Stack Developer.
    + 🕹 I'm an Esports fan.
   
  ## Languages and Tools
