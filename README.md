@@ -45,7 +45,7 @@
 
  <div>
    <a href="https://github.com/marcos-goulart">
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-goulart)](https://github.com/marcos-goulart/github-readme-stats)
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-goulart&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=false">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marcos-goulart&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
 </div>
 
