@@ -6,8 +6,13 @@
 
   ## About Me
   
-   + 📃 Full-Stack Developer.
-   + 🕹 I'm an Esports fan.
+   - Conheci a programação em 2019 quando ainda estava no ensino médio e me preparando para o que queria no futuro, no mesmo ano eu conheci Python e fiz cursos para me aprofundar e melhorar meus conhecimentos com      a tecnologia, me apaixonei logo de cara pela lógica e por ter que sempre me desafia para encontrar soluções e tive a experiencia de desenvolver códigos para diversas soluções usando bibliotecas como Numpy,        Pandas, Matplotlib/Seaborn e PyTorch de forma independente. 
+
+  - Depois disso eu me aventurei pelo mundo do frontend criando páginas estáticas para poder desenvolver uma base sólida de conhecimento com Html, Css e Bootstrap, para então começar a desenvolver páginas             dinâmicas com JavaScript e JQuery onde depois de conseguir mais confiança, expandir minhas habilidades para trabalhar com o que é minha stack principal hoje e que está na parte de construir aplicações             utilizando React.Js, Vue.Js, Tailwind CSS, SASS, Styled-Components, GIt e Node.js
+
+- Para acompanhar meu progresso contínuo poderá acompanhar minha jornada aqui pelo Github ou verificar meu Linkedin. 
+
+- Linkedin: [https://github.com/marcos-goulart](https://www.linkedin.com/in/marcos-goulart-dev/)
   
  ## Languages and Tools
  ### Front-End:
