@@ -62,12 +62,10 @@ Agile methodologies
 
 ## 📊 GitHub Insights
 
-```html
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcos-goulart&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-goulart&layout=compact&theme=transparent&hide_border=true"/>
 </div>
-```
 
 ---
 
