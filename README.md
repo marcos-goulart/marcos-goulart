@@ -60,39 +60,6 @@ Agile methodologies
 
 ---
 
-## 🚀 Selected Projects
-
-### GitHub API Explorer
-
-React application consuming GitHub’s public API.
-
-Focus:
-
-* API integration
-* Structured component design
-* Clean UI state management
-
-Repository:
-[https://github.com/marcos-goulart/Git-hub-api](https://github.com/marcos-goulart/Git-hub-api)
-
----
-
-### Hotel Search Platform (In Development)
-
-Fullstack web application designed for scalable hotel search and filtering.
-
-Focus:
-
-* Filtering algorithms
-* API abstraction layer
-* Modular UI architecture
-* Future-ready backend structure
-
-Repository:
-[https://github.com/marcos-goulart/hotel-react-in-development](https://github.com/marcos-goulart/hotel-react-in-development)
-
----
-
 ## 📊 GitHub Insights
 
 ```html
