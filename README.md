@@ -63,8 +63,8 @@ Agile methodologies
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcos-goulart&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-goulart&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcos-goulart&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcos-goulart&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
