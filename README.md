@@ -1,51 +1,124 @@
- <h1 align="center">👋Hello! I'm Marcos Goulart...🐰</h1>
- <div>
-  <a href = "mailto:viniciusmage@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-goulart-1402b9216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+# Marcos Goulart
 
-  ## About Me
-  
-   - I'm a software developper who likes fórmula 1 😀
-  
- ## Languages and Tools
- ### Front-End:
+### Fullstack Software Engineer
 
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Building scalable web systems with clarity, structure and performance.
 
- ### Back-End:
+---
 
- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+## 👋 About
 
- ### Languages:
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+I’m a Fullstack Software Engineer focused on designing and building scalable, production-oriented web applications.
 
- ### Linters:
- ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
- <img src="https://camo.githubusercontent.com/81280c6c5bad3d87f28e466f4dc216ba8c55dc2c264fbd5ef03a9d04fe1e6ae0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70726574746965722d3141324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7072657474696572266c6f676f436f6c6f723d463742413345" alt="Prettier" data-canonical-src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&amp;logo=prettier&amp;logoColor=F7BA3E" style="max-width: 100%;">
- 
- ### Tools:
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- 
- 
- <br>
- 
+I started programming in 2019 with Python, developing strong foundations in logic, data analysis and computational thinking. Over time, I transitioned into modern web engineering, where I now specialize in React, TypeScript and Node.js ecosystems.
 
- <div>
-   <a href="https://github.com/marcos-goulart">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-goulart&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=false">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marcos-goulart&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+My goal is not just to write code — but to design reliable systems.
+
+Currently:
+
+* 🎓 BSc in Software Engineering (2023–2027)
+* 🌎 Open to international remote opportunities
+* 📈 Continuously improving architecture and system design skills
+
+---
+
+## 🧠 Engineering Philosophy
+
+I believe software quality comes from:
+
+* Clear and modular architecture
+* Predictable state management
+* API design consistency
+* Strong typing (TypeScript-first mindset)
+* Clean, readable and maintainable code
+* Version control discipline and structured workflows
+
+I focus on building systems that are easy to scale, test and evolve.
+
+---
+
+## ⚙️ Core Stack
+
+### Frontend Engineering
+
+React • TypeScript • JavaScript
+Component architecture • Hooks patterns • API-driven UI
+Tailwind CSS • Styled Components • Responsive Design
+
+### Backend Engineering
+
+Node.js • Express
+REST API design
+Authentication & middleware patterns
+
+### Workflow & Engineering Tools
+
+Git • GitHub
+Docker
+VS Code
+Agile methodologies
+
+---
+
+## 🚀 Selected Projects
+
+### GitHub API Explorer
+
+React application consuming GitHub’s public API.
+
+Focus:
+
+* API integration
+* Structured component design
+* Clean UI state management
+
+Repository:
+[https://github.com/marcos-goulart/Git-hub-api](https://github.com/marcos-goulart/Git-hub-api)
+
+---
+
+### Hotel Search Platform (In Development)
+
+Fullstack web application designed for scalable hotel search and filtering.
+
+Focus:
+
+* Filtering algorithms
+* API abstraction layer
+* Modular UI architecture
+* Future-ready backend structure
+
+Repository:
+[https://github.com/marcos-goulart/hotel-react-in-development](https://github.com/marcos-goulart/hotel-react-in-development)
+
+---
+
+## 📊 GitHub Insights
+
+```html
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcos-goulart&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-goulart&layout=compact&theme=transparent&hide_border=true"/>
 </div>
+```
 
- 
+---
+
+## 🌍 Professional Vision
+
+I’m building toward becoming a highly reliable Fullstack Engineer capable of:
+
+* Designing production-level architectures
+* Contributing to international engineering teams
+* Delivering clean, scalable and maintainable systems
+
+I value clarity over complexity.
+Structure over improvisation.
+Long-term quality over quick fixes.
+
+---
+
+## 📫 Contact
+
+### Email: [viniciusmage@gmail.com](mailto:viniciusmage@gmail.com)
+### LinkedIn: linkedin.com/in/marcos-goulart-dev
