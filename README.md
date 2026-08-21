@@ -1,89 +1,85 @@
 # Marcos Goulart
 
-### Fullstack Software Engineer
+### Engenheiro de Software Fullstack
 
-Building scalable web systems with clarity, structure and performance.
-
----
-
-## 👋 About
-
-I’m a Fullstack Software Engineer focused on designing and building scalable, production-oriented web applications.
-
-I started programming in 2019 with Python, developing strong foundations in logic, data analysis and computational thinking. Over time, I transitioned into modern web engineering, where I now specialize in React, TypeScript and Node.js ecosystems.
-
-My goal is not just to write code — but to design reliable systems.
-
-Currently:
-
-* 🎓 BSc in Software Engineering (2023–2027)
-* 🌎 Open to international remote opportunities
-* 📈 Continuously improving architecture and system design skills
+Construindo sistemas web escaláveis com clareza, estrutura e performance.
 
 ---
 
-## 🧠 Engineering Philosophy
+## 👋 Sobre
 
-I believe software quality comes from:
+Sou um Engenheiro de Software Fullstack focado no design e desenvolvimento de aplicações web escaláveis e voltadas para produção.
 
-* Clear and modular architecture
-* Predictable state management
-* API design consistency
-* Strong typing (TypeScript-first mindset)
-* Clean, readable and maintainable code
-* Version control discipline and structured workflows
+Iniciei na programação em 2019 com Python, desenvolvendo bases sólidas em lógica, análise de dados e pensamento computacional. Com o tempo, migrei para a engenharia web moderna, onde hoje me especializo nos ecossistemas de React, TypeScript e Node.js.
 
-I focus on building systems that are easy to scale, test and evolve.
+Meu objetivo não é apenas escrever código — mas sim projetar sistemas confiáveis.
+
+Atualmente:
+
+* 🎓 Bacharelado em Engenharia de Software (2023–2027)
+* 🌎 Aberto a oportunidades remotas internacionais
+* 📈 Em constante aprimoramento em arquitetura e design de sistemas
 
 ---
 
-## ⚙️ Core Stack
+## 🧠 Filosofia de Engenharia
 
-### Frontend Engineering
+Acredito que a qualidade de um software vem de:
 
-React • TypeScript • JavaScript
-Component architecture • Hooks patterns • API-driven UI
-Tailwind CSS • Styled Components • Responsive Design
+* Arquitetura clara e modular
+* Gerenciamento de estado previsível
+* Consistência no design de APIs
+* Tipagem forte (mentalidade TypeScript-first)
+* Código limpo, legível e de fácil manutenção
+* Disciplina em controle de versão e fluxos de trabalho estruturados
 
-### Backend Engineering
+Meu foco é construir sistemas fáceis de escalar, testar e evoluir.
+
+---
+
+## ⚙️ Stack Principal
+
+### Engenharia Frontend
+
+React • TypeScript • JavaScript • Python
+Arquitetura de componentes • Padrões de Hooks • UI orientada a APIs
+Tailwind CSS • Styled Components • Design Responsivo
+
+### Engenharia Backend
 
 Node.js • Express
-REST API design
-Authentication & middleware patterns
+Design de APIs REST
+Padrões de autenticação & middlewares
 
-### Workflow & Engineering Tools
+### Ferramentas de Engenharia & Workflow
 
 Git • GitHub
 Docker
-VS Code
-Agile methodologies
+VS Code • Antigravity
+Metodologias Ágeis
 
 ---
 
 ## 📊 GitHub Insights
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcos-goulart&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcos-goulart&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
+---
+
+## 🌍 Visão Profissional
+
+Estou me desenvolvendo para me tornar um Engenheiro Fullstack altamente confiável, capaz de:
+
+* Projetar arquiteturas em nível de produção
+* Contribuir em equipes de engenharia internacionais
+* Entregar sistemas limpos, escaláveis e de fácil manutenção
+
+Valorizo a clareza em vez da complexidade.
+Estrutura em vez de improviso.
+Qualidade de longo prazo em vez de soluções temporárias.
 
 ---
 
-## 🌍 Professional Vision
+## 📫 Contato
 
-I’m building toward becoming a highly reliable Fullstack Engineer capable of:
+### E-mail: [viniciusmage@gmail.com](https://www.google.com/search?q=mailto%3Aviniciusmage%40gmail.com)
 
-* Designing production-level architectures
-* Contributing to international engineering teams
-* Delivering clean, scalable and maintainable systems
-
-I value clarity over complexity.
-Structure over improvisation.
-Long-term quality over quick fixes.
-
----
-
-## 📫 Contact
-
-### Email: [viniciusmage@gmail.com](mailto:viniciusmage@gmail.com)
-### LinkedIn: linkedin.com/in/marcos-goulart-dev
+### LinkedIn: [linkedin.com/in/marcos-goulart-dev](https://www.google.com/search?q=https://linkedin.com/in/marcos-goulart-dev)
